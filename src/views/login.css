@@ -1,0 +1,32 @@
+.x{
+    border: 10px solid;
+}
+
+button{
+    margin-left: 170px;
+}
+
+.columna{
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+.container{
+    margin-top: 150px;
+}
+.register{
+    height: 60px;
+}
+
+#register{
+    margin-top: 15px;
+}
+
+form button{
+    width: 100%;
+}
+
+.logo{
+    margin-top: 30px;
+    margin-left: 55px;
+}

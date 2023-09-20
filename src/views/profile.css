@@ -1,0 +1,16 @@
+/* Estilo para el contenedor circular */
+.imagen-circular {
+    width: 200px; /* Define el ancho deseado */
+    height: 200px; /* Define la altura deseada */
+    border-radius: 50%; /* Aplica un radio del 50% para hacerlo circular */
+    overflow: hidden; /* Oculta cualquier contenido fuera del círculo */
+}
+
+/* Estilo para la imagen dentro del contenedor */
+.imagen-circular img {
+    width: 100%; /* La imagen ocupará todo el espacio dentro del círculo */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+span{
+    font-weight: bold;
+}

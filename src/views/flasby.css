@@ -1,0 +1,30 @@
+.content{
+    border: 1px solid;
+}
+
+#uno{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
+.imagen-circular {
+    width: 50px; /* Define el ancho deseado */
+    height: 50px; /* Define la altura deseada */
+    border-radius: 50%; /* Aplica un radio del 50% para hacerlo circular */
+    overflow: hidden; /* Oculta cualquier contenido fuera del círculo */
+}
+
+/* Estilo para la imagen dentro del contenedor */
+.imagen-circular img {
+    width: 100%; /* La imagen ocupará todo el espacio dentro del círculo */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+.image-post{
+    width: 410px;
+    height: 440px;
+}
+.xxx{
+    border: 1px solid;
+}
